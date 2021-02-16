@@ -1,3 +1,0 @@
-displayName = Unique Music Boxes
-author = Zahard
-version = 0.1
