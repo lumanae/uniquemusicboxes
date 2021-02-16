@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+mBn9vJzl6zvwzMbO8xkt1zprPHpNCrkaJtN3mRQrobOCzfwCANDCCI0MUytxA+/XMzYf6y6XzADAa0u+YQ5Xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\galac\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\uniquemusicboxes\\uniquemusicboxes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\galac\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
